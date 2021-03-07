@@ -41,7 +41,7 @@ I ❤ Coding and I am crazy about hackathons & building stuff
     align="left"
     alt="Hrithik Malik | Gmail"
     width="26px"
-    src="./public/Gmail.com"
+    src="./public/Gmail.svg"
   />
 </a>
 
