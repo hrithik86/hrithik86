@@ -45,7 +45,7 @@ I ❤ Coding and I am crazy about hackathons & building stuff
   />
 </a>
 <br>
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 <!--
 **hrithik86/hrithik86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
